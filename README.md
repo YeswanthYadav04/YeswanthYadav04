@@ -15,8 +15,8 @@
 
 **Languages**
 - Python 🐍
-- JavaScript
-- HTML / CSS
+- Java
+- C++
 
 **Frameworks & Tools**
 - Django
