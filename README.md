@@ -29,6 +29,7 @@
 - Retrieval Augmented Generation (RAG)
 - LLM-powered applications
 - NLP basics
+- Langchain
 
 ---
 
