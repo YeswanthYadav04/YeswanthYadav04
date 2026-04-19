@@ -14,13 +14,13 @@ jobs:
     timeout-minutes: 10
 
     steps:
+      - uses: actions/checkout@v3
+
       - name: Generate Pac-Man Graph
-        uses: Platane/snk/svg-only@v3
+        uses: huocun-ant/pac-man-contribution-graph@main
         with:
           github_user_name: YeswanthYadav04
-          outputs: |
-            dist/pacman-contribution-graph.svg?palette=github&animate=4
-            dist/pacman-contribution-graph-dark.svg?palette=github-dark&animate=4
+          output_dir: dist
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
