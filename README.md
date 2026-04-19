@@ -55,12 +55,12 @@ I love turning ideas into real products and continuously pushing my technical li
 
 ---
 
-## 🕹️Contribution
+## 🕹️ Contribution
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YeswanthYadav04/YeswanthYadav04/output/pacman-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YeswanthYadav04/YeswanthYadav04/output/pacman.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/YeswanthYadav04/YeswanthYadav04/output/pacman.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YeswanthYadav04/YeswanthYadav04/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YeswanthYadav04/YeswanthYadav04/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/YeswanthYadav04/YeswanthYadav04/output/pacman-contribution-graph.svg" width="100%">
 </picture>
 
 <p align="center">
